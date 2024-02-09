@@ -22,7 +22,7 @@
 				<td align="center">삼성</td>
 				<td align="center">소니</td>
 				<td align="center">올림프스</td>
-				<td align="center">lg</td>
+				<td align="center">lg 2</td>
 			</tr>
 			
 		</table>
